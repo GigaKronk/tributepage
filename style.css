@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: darkgreen;  
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+}
+body {
+    font-family: georgia;
+    background-color: limegreen;
+   
+}
+.review {
+    background-color: #FFF;
+    width: 650px;
+    display: none;
+
+}
+.active {
+    display: block;
+}
+.myimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+button {
+background-color: limegreen;
+text-align: center;
+font-size: 16px ;
+width: 50%;
+}
+background-color{
+    background-color: limegreen;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    color: darkgreen;
+}
+ul{
+    text-align: center;
+    font-size: 25px;
+}
